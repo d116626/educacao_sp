@@ -7,3 +7,4 @@
 - [QEdu](https://www.qedu.org.br/)
 - [Dados Abertos Educação GOVERNO](http://educacao.dadosabertosbr.com/escolas/estatisticas) -  TEM API
 - [MEC - Programa Mais Educação, Prouni e Pronatec](http://dadosabertos.mec.gov.br)
+- [CGRH](http://www.educacao.sp.gov.br/cgrh/)
